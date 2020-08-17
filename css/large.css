@@ -1,0 +1,35 @@
+nav a {
+  font-size: 1rem;
+}
+
+.card-text {
+  font-size: 0.8rem;
+}
+
+#achivements p i {
+  font-size: 35px;
+}
+
+#achivements .number {
+  font-size: 30px;
+}
+
+#achivements .text-achiv {
+  font-size: 15px;
+}
+
+@media (min-width: 1441px) {
+  nav a {
+    font-size: 1.2rem;
+  }
+  header h1 {
+    font-size: 3rem;
+  }
+  header p {
+    font-size: 1.6rem;
+  }
+  header .btn-outline-light {
+    font-size: 1.4rem;
+  }
+}
+/*# sourceMappingURL=large.css.map */
